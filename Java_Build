@@ -1,4 +1,6 @@
 Build --> what is that ? convert the source code into a product or application. called as Artifacts.
 QA will be running for UAT / FUCNTIONAL test / Regression Test.
 1. run is replaced by deployment.
+Deployment consists of :
+1. install ur application.
 2. Then configuration needs to be done.
