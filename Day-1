@@ -1,2 +1,44 @@
 Quality Assurance Engineer - QA
 what is build and deployment ?
+We need to know build and deplop which is very importamt.
+BUILD :
+- eg., many microservices are there in Netflix . developers will push to git . which is a RAW code or source code.
+- Source code will be converted to product or application.
+- deliverables or Artifcats.
+- source code is like raw rice , not consumable or can't run this.
+- so its needs to be converted to machine readable.
+- Software build --> convert source code into artifacts.
+
+Two steps in build:
+
+1. compilation. ( program files to object files ( machine format ) ) Eg., java code .java into .class files
+2. combine all object files to --> packaging / single deliverable / Artifacts
+
+complier : source code --> object code --> deliverable --> execute eg., java , go , c and c++ - complier utility
+Interpreter : source code --> intermediate code --> execute eg., py , node , js , ruby 
+( not to convert into object code , only packaging ) , interpreter utility . No concept of compilation.
+
+Difference :
+
+complier language :
+1. entire program
+2. object files
+3. execution happens after compilation
+4. it runs faster
+5. cpu will be higher
+6. requires more memory
+
+Interpreter language :
+
+1. line by line
+2. no additional files are created
+3. execution takes place after every line.
+4. runs slower
+5. cpu is less
+6. memory efficient
+
+Coming to Java 
+--------------
+
+
+
